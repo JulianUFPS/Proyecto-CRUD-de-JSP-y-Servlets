@@ -26,7 +26,7 @@
 	</header>
 	
 	<div class="row">
-    <!--  div class="class="alert alert-success" ngIf="message">{{message}}</div> -->
+    <!--  div class="class="alert alert-success" ngIf="message">{{message}}</div>  -->
     
     <div class="container">
         <h3 class="text-center">Listado de Usuarios</h3>
